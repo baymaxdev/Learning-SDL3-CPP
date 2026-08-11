@@ -6,6 +6,17 @@ This repository tracks my journey learning modern C++ and 2D game programming fr
 * [Lazy Foo' Productions - Beginning Game Programming v3.0 (SDL3)](https://lazyfoo.net/tutorials/SDL3/index.php)
 * [LearnCpp.com](https://www.learncpp.com/)
 
+### C++ Prerequisites
+
+According to the course introduction, this series is designed for **beginner C++ programmers** who want to move from text-based applications to real-time graphical games. 
+
+Before diving into the SDL3 code, a basic understanding of the following C++ concepts is highly recommended:
+*   **Basic Syntax & Logic:** Variables, control flow (`if`/`else`), and loops (`while`, `for`).
+*   **Functions:** How to declare, define, and call functions to keep game logic organized.
+*   **Pointers and References:** Essential for handling memory manually and passing large objects (like window contexts and textures) around your program efficiently.
+*   **Basic Object-Oriented Programming (OOP):** Understanding how to use classes and structs to organize game entities.
+*   **File Organization:** Knowing how to separate your code into header files (`.h` or `.hpp`) and source files (`.cpp`).
+
 ### Course Roadmap
 
 - [ ] **Introduction** - A little intro before we start coding.
