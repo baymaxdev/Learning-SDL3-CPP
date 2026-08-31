@@ -7,5 +7,6 @@ void SDL() {
 }
 
 int main() {
+    SDL();
     cout << "Hello World!" << endl;
 }
