@@ -10,5 +10,6 @@ int main() {
     SDL();
     cout << "The Most Useless Thing" << '\n';
     cout << "Not Even Learning Anything" << '\n';
+    cout << "So Useless" << '\n';
     cout << "Hello World!" << endl;
 }
