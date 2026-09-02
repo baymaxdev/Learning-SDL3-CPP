@@ -9,6 +9,6 @@ void SDL() {
 int main() {
     SDL();
 
-    cout << "Not Even Learning Anything" << '\n';
+    
     cout << "Hello World!" << endl;
 }
