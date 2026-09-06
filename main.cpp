@@ -11,5 +11,6 @@ int main() {
     cout << "The Most Useless Thing" << '\n';
     cout << "Not Even Learning Anything" << '\n';
     cout << "So Useless" << '\n';
+    cout << "At This Point i am Not Even Doing Shit"
     cout << "Hello World!" << endl;
 }
