@@ -12,5 +12,6 @@ int main() {
     cout << "Not Even Learning Anything" << '\n';
     cout << "So Useless" << '\n';
     cout << "At This Point i am Not Even Doing Shit" << '\n';
+    cout << "Almost Missed The Day" << '\n';
     cout << "Hello World!" << endl;
 }
