@@ -15,5 +15,6 @@ int main() {
     cout << "Almost Missed The Day" << '\n';
     cout << "The Most Tiring Day of The Month Man This is So Tiring" << '\n';
     cout << "I Will Cover For all The Stupid Stuff I Have Written" << '\n';
+    cout << "Haye";
     cout << "Hello World!" << endl;
 }
